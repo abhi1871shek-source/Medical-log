@@ -1,0 +1,28 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-020
+PATIENT_ID:  PAT-101
+DEPARTMENT:  General Surgery
+RECORD_TYPE: Discharge Summary
+STORED_PATH: data/organized_records\General Surgery\Discharge Summary\REC-020_PAT-101.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - FORMAL DISCHARGE SUMMARY
+Record ID: REC-020 | Date: 2026-10-25 21:00:00
+Patient: PAT-101 (Sarah Connor - Bed 1)
+Department: General Surgery
+Attending Surgeon: Dr. Anthony Ross, FACS
+
+DISCHARGE SUMMARY:
+Admission Date: 2026-10-23 | Discharge Date: 2026-10-26
+Primary Diagnosis: Acute Perforated Appendicitis
+Procedure: Laparoscopic Appendectomy with peritoneal irrigation
+
+Hospital Course:
+The patient experienced an uneventful recovery with stable vital signs throughout the post-operative period.
+Afebrile with excellent pain control on oral analgesics. Tolerating regular oral intake.
+Surgical incisions healed without complication.
+
+Discharge Instructions & Follow-up:
+- Follow up in Surgical Outpatient Clinic in 10 days for wound check.
+- Avoid strenuous physical exertion or lifting > 10 lbs for 2 weeks.
+- Return to ED immediately if fever > 38.5°C, worsening abdominal pain, or nausea develops.

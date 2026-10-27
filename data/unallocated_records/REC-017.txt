@@ -1,0 +1,15 @@
+METROPOLITAN HOSPITAL - NEPHROLOGY CONSULTATION NOTE
+Record ID: REC-017 | Date: 2026-10-25 19:15:00
+Patient: PAT-106 (James Henderson - Bed 6)
+Department: Nephrology
+Nephrologist: Dr. Arthur Chen, MD
+
+CONSULTATION SUMMARY:
+Patient with acute tubular necrosis (ATN) superimposed on diabetic nephropathy.
+Urine output over past 6 hours has improved to 45 mL/hr following fluid resuscitation.
+Electrolytes normalizing; metabolic acidosis resolving with intravenous bicarbonate infusion.
+
+RECOMMENDATIONS:
+- Discontinue nephrotoxic agents (NSAIDs, aminoglycosides).
+- Maintain intravenous hydration with 0.45% Saline at 100 mL/hr.
+- Re-check serum creatinine and potassium in 12 hours.

@@ -1,0 +1,22 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-005
+PATIENT_ID:  PAT-107
+DEPARTMENT:  Pulmonology
+RECORD_TYPE: Lab Report
+STORED_PATH: data/organized_records\Pulmonology\Lab Report\REC-005_PAT-107.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - ARTERIAL BLOOD GAS (ABG) LAB REPORT
+Record ID: REC-005 | Date: 2026-10-25 11:20:00
+Patient Ref: PAT-107 (Bed 7 - Maria Gonzalez)
+Department: Pulmonology / Respiratory ICU
+
+ARTERIAL BLOOD GAS PANEL (FiO2 60% via High-Flow Nasal Cannula):
+- Arterial pH: 7.28 (LOW, Acidosis, Ref: 7.35 - 7.45)
+- PaO2: 62 mmHg (SEVERE HYPOXEMIA, Ref: 80 - 100)
+- PaCO2: 52 mmHg (ELEVATED, Ref: 35 - 45)
+- HCO3-: 24 mEq/L (Normal: 22 - 26)
+- SaO2: 86% (CRITICAL, Ref: > 94%)
+- PaO2/FiO2 ratio: 103 (Moderate-to-Severe ARDS criteria)
+
+Impression: Acute respiratory failure secondary to ARDS. Endotracheal intubation standby advised.

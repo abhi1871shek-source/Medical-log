@@ -1,0 +1,12 @@
+METROPOLITAN HOSPITAL - INFECTIOUS DISEASE LAB REPORT
+Record ID: REC-018 | Date: 2026-10-25 19:50:00
+Patient ID: PAT-103 (Bed 3)
+Department: Infectious Disease / General ICU
+
+SERIAL COAGULATION & INFLAMMATORY BIOMARKERS:
+- D-Dimer: 4,800 ng/mL FEU (CRITICALLY HIGH, Ref: < 500)
+- Fibrinogen: 160 mg/dL (LOW / CONSUMPTIVE COAGULOPATHY, Ref: 200 - 400)
+- International Normalized Ratio (INR): 1.85 (ELEVATED, Ref: 0.9 - 1.1)
+- Platelet Count: 68 x10^3/uL (THROMBOCYTOPENIA, Ref: 150 - 450)
+
+Clinical Impression: Emerging Disseminated Intravascular Coagulation (DIC) in setting of severe urosepsis.

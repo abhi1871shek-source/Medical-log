@@ -1,0 +1,17 @@
+METROPOLITAN HOSPITAL - NEUROLOGY CLINICAL NOTE
+Record ID: REC-009 | Date: 2026-10-25 14:15:00
+Patient: PAT-105 (Bed 5 - Amina Yusuf)
+Department: Neurology / Neurocritical Care
+Neurologist: Dr. S. Patel, MD
+
+NEUROLOGICAL ASSESSMENT:
+Patient admitted 18 hours ago post IV thrombolysis for left MCA ischemic stroke.
+Glasgow Coma Scale: 14 (E4 V4 M6 - mild expressive aphasia).
+NIHSS Stroke Scale score has improved from 12 on admission to 6 today.
+Pupils equal and reactive to light, 3mm bilaterally.
+No signs of hemorrhagic transformation on follow-up non-contrast head CT.
+
+PLAN:
+Maintain blood pressure < 140/90 mmHg.
+Initiate oral statin and antiplatelet therapy tomorrow.
+Speech and swallowing therapy consult ordered.

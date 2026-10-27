@@ -1,0 +1,13 @@
+METROPOLITAN HOSPITAL - CARDIOLOGY ECHOCARDIOGRAM REPORT
+Record ID: REC-016 | Date: 2026-10-25 18:40:00
+Patient: PAT-104 (Bed 4) | Department: Cardiology
+Director of Echocardiography: Dr. Laura Vance, MD
+
+TRANSTHORACIC ECHOCARDIOGRAPHY (TTE) LAB FINDINGS:
+- Left Ventricular Ejection Fraction (LVEF): 38% (MODERATELY REDUCED)
+- Regional Wall Motion Abnormality: Severe hypokinesis of anterior and apical walls
+- Diastolic Filling: Grade II diastolic dysfunction
+- Right Ventricular Function: Normal systolic excursion (TAPSE 19 mm)
+- Valves: Trace mitral regurgitation, no aortic stenosis
+
+Summary: Antero-apical myocardial injury with depressed left ventricular systolic function.

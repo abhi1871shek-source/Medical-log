@@ -1,0 +1,23 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-014
+PATIENT_ID:  PAT-102
+DEPARTMENT:  Pulmonology
+RECORD_TYPE: Doctor Note
+STORED_PATH: data/organized_records\Pulmonology\Doctor Note\REC-014_PAT-102.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - PULMONOLOGY DOCTOR NOTE
+Record ID: REC-014 | Date: 2026-10-25 17:15:00
+Patient: PAT-102 | Bed 2 | Dept: Pulmonology
+Attending: Dr. Elena Rostova, MD
+
+PROGRESS NOTE:
+68yo male with history of severe COPD, GOLD Stage III.
+Currently alert, oriented x 3, in mild work of breathing.
+Auscultation reveals scattered expiratory wheezes bilaterally with coarse rhonchi at right base.
+SpO2 maintained at 92-94% on 2 L/min nasal cannula (safe target range for chronic CO2 retainer).
+
+PLAN:
+1. Continue intravenous Ceftriaxone and Azithromycin.
+2. Inhaled bronchodilator therapy every 4 hours.
+3. Chest physiotherapy and incentive spirometry.

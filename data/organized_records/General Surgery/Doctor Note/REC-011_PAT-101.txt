@@ -1,0 +1,24 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-011
+PATIENT_ID:  PAT-101
+DEPARTMENT:  General Surgery
+RECORD_TYPE: Doctor Note
+STORED_PATH: data/organized_records\General Surgery\Doctor Note\REC-011_PAT-101.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - POST-OPERATIVE SURGICAL NOTE
+Record ID: REC-011 | Date: 2026-10-25 15:30:00
+Patient: PAT-101 (Bed 1 - Sarah Connor)
+Department: General Surgery / ICU
+Surgeon: Dr. Anthony Ross, FACS
+
+SURGICAL RECOVERY NOTE:
+Patient is Day 1 post laparoscopic appendectomy for acute perforated appendicitis.
+Vitals remain stable: HR 72, BP 118/74, SpO2 98% on room air, Temp 36.8°C.
+Surgical port sites clean, dry, and intact with no erythema or discharge.
+Abdomen soft, mild peri-umbilical tenderness expected post-op. Bowel sounds present.
+
+PLAN:
+Advance from clear liquid diet to soft diet as tolerated.
+Discontinue Foley catheter. Ambulate three times daily.
+Anticipate discharge to surgical stepdown ward in 24 hours.

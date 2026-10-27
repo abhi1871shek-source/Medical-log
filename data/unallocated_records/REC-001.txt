@@ -1,0 +1,14 @@
+METROPOLITAN HOSPITAL - CLINICAL LABORATORY REPORT
+Record ID: REC-001 | Date: 2026-10-25 08:30:00
+Patient Identifier: PAT-103 (Bed 3)
+Specimen: Blood Culture & CBC with Differential
+Department: Infectious Disease / General ICU
+
+TEST RESULTS:
+- White Blood Cell (WBC): 18.5 x10^3/uL (HIGH, Ref: 4.5 - 11.0)
+- Neutrophils: 88% (HIGH, Ref: 40 - 70)
+- Serum Lactate: 3.8 mmol/L (HIGH, Ref: 0.5 - 2.0)
+- Procalcitonin: 4.2 ng/mL (SEVERE SEPSIS RISK, Ref: < 0.5)
+- Blood Culture: Gram-negative bacilli detected (Escherichia coli)
+
+Lab Impression: High bacteremic burden consistent with systemic sepsis. Urgent antibiotic adjustment advised.

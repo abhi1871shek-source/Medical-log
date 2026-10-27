@@ -1,0 +1,11 @@
+METROPOLITAN HOSPITAL - PULMONOLOGY RESPIRATORY PRESCRIPTION
+Record ID: REC-019 | Date: 2026-10-25 20:25:00
+Patient: PAT-102 (Robert Miller - Bed 2)
+Department: Pulmonology
+Prescriber: Dr. Elena Rostova, MD
+
+PRESCRIPTION (Rx):
+1. Ipratropium bromide / Albuterol (Combivent) inhalation aerosol 2 puffs QID
+2. Budesonide 0.5 mg nebulized suspension BID
+3. Prednisone 40 mg oral tablet once daily for 5-day taper
+4. Supplemental nasal oxygen at 2 L/min continuous via nasal cannula

@@ -1,0 +1,22 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-008
+PATIENT_ID:  PAT-106
+DEPARTMENT:  Nephrology
+RECORD_TYPE: Lab Report
+STORED_PATH: data/organized_records\Nephrology\Lab Report\REC-008_PAT-106.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - NEPHROLOGY LAB REPORT
+Record ID: REC-008 | Date: 2026-10-25 13:30:00
+Patient Identifier: PAT-106 (Bed 6)
+Department: Nephrology / General ICU
+
+COMPREHENSIVE RENAL & METABOLIC PANEL:
+- Serum Creatinine: 2.4 mg/dL (ELEVATED, Baseline 0.9, Ref: 0.6 - 1.2)
+- Blood Urea Nitrogen (BUN): 48 mg/dL (HIGH, Ref: 7 - 20)
+- Estimated GFR: 28 mL/min/1.73m^2 (Stage 4 CKD / Acute Kidney Injury)
+- Potassium: 5.6 mEq/L (MILD HYPERKALEMIA, Ref: 3.5 - 5.1)
+- Sodium: 136 mEq/L (Normal)
+- Serum Ketones: Positive 2+ (Resolving diabetic ketoacidosis)
+
+Status: Acute kidney injury on resolving DKA background. Strict fluid balance required.

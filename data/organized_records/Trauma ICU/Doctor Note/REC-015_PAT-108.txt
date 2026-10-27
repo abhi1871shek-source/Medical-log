@@ -1,0 +1,24 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-015
+PATIENT_ID:  PAT-108
+DEPARTMENT:  Trauma ICU
+RECORD_TYPE: Doctor Note
+STORED_PATH: data/organized_records\Trauma ICU\Doctor Note\REC-015_PAT-108.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - TRAUMA ICU PROGRESS NOTE
+Record ID: REC-015 | Date: 2026-10-25 18:00:00
+Patient: PAT-108 (Bed 8 - Thomas Wright)
+Department: Trauma / General ICU
+Attending Traumatologist: Dr. Gregory Hall, MD
+
+CLINICAL EVALUATION:
+29yo male admitted after motor vehicle collision with blunt thoracic trauma.
+Follow-up eFAST ultrasound negative for pericardial tamponade or hemoperitoneum.
+Serial hemoglobin stable at 13.8 g/dL.
+Chest tube drainage < 50 mL serosanguinous fluid over last 8 hours; no air leak.
+
+PLAN:
+Clamp chest tube tomorrow morning if chest X-ray confirms full lung re-expansion.
+Multimodal pain management with oral analgesics.
+Physical therapy evaluation for mobilization.

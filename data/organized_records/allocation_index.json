@@ -1,0 +1,182 @@
+[
+  {
+    "record_id": "REC-001",
+    "patient_id": "PAT-103",
+    "department": "Infectious Disease",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Infectious Disease\\Lab Report\\REC-001_PAT-103.txt",
+    "relative_path": "data\\organized_records\\Infectious Disease\\Lab Report\\REC-001_PAT-103.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - CLINICAL LABORATORY REPORT Record ID: REC-001 | Date: 2026-10-25 08:30:00 Patient Identifier: PAT-103 (Bed 3) Specimen: Blood Culture & "
+  },
+  {
+    "record_id": "REC-002",
+    "patient_id": "PAT-103",
+    "department": "Nephrology",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\Nephrology\\Prescription\\REC-002_PAT-103.txt",
+    "relative_path": "data\\organized_records\\Nephrology\\Prescription\\REC-002_PAT-103.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - ICU PHARMACY PRESCRIPTION Record ID: REC-002 | Date: 2026-10-25 09:15:00 Patient: PAT-103 (Elena Vasquez) | Bed: 3 Attending Physician: "
+  },
+  {
+    "record_id": "REC-003",
+    "patient_id": "PAT-104",
+    "department": "Cardiology",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Cardiology\\Doctor Note\\REC-003_PAT-104.txt",
+    "relative_path": "data\\organized_records\\Cardiology\\Doctor Note\\REC-003_PAT-104.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - CARDIOLOGY CLINICAL PROGRESS NOTE Record ID: REC-003 | Date: 2026-10-25 10:00:00 Patient: PAT-104 (David Kim) | Bed: 4 | Dept: Cardiolog"
+  },
+  {
+    "record_id": "REC-004",
+    "patient_id": "PAT-104",
+    "department": "Cardiology",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\Cardiology\\Prescription\\REC-004_PAT-104.txt",
+    "relative_path": "data\\organized_records\\Cardiology\\Prescription\\REC-004_PAT-104.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - CARDIAC DRUG PRESCRIPTION Record ID: REC-004 | Date: 2026-10-25 10:45:00 Patient ID: PAT-104 | Bed 4 | Cardiology Division Prescriber: D"
+  },
+  {
+    "record_id": "REC-005",
+    "patient_id": "PAT-107",
+    "department": "Pulmonology",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Pulmonology\\Lab Report\\REC-005_PAT-107.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Lab Report\\REC-005_PAT-107.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - ARTERIAL BLOOD GAS (ABG) LAB REPORT Record ID: REC-005 | Date: 2026-10-25 11:20:00 Patient Ref: PAT-107 (Bed 7 - Maria Gonzalez) Departm"
+  },
+  {
+    "record_id": "REC-006",
+    "patient_id": "PAT-107",
+    "department": "Pulmonology",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Pulmonology\\Doctor Note\\REC-006_PAT-107.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Doctor Note\\REC-006_PAT-107.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - PULMONOLOGY CONSULTATION NOTE Record ID: REC-006 | Date: 2026-10-25 12:10:00 Patient: PAT-107 | Bed: 7 | Department: Pulmonology Consult"
+  },
+  {
+    "record_id": "REC-007",
+    "patient_id": "PAT-107",
+    "department": "Pulmonology",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\Pulmonology\\Prescription\\REC-007_PAT-107.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Prescription\\REC-007_PAT-107.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - INPATIENT PRESCRIPTION Record ID: REC-007 | Date: 2026-10-25 12:45:00 Patient: PAT-107 (Bed 7) | Pulmonology Unit Ordering Clinician: Dr"
+  },
+  {
+    "record_id": "REC-008",
+    "patient_id": "PAT-106",
+    "department": "Nephrology",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Nephrology\\Lab Report\\REC-008_PAT-106.txt",
+    "relative_path": "data\\organized_records\\Nephrology\\Lab Report\\REC-008_PAT-106.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - NEPHROLOGY LAB REPORT Record ID: REC-008 | Date: 2026-10-25 13:30:00 Patient Identifier: PAT-106 (Bed 6) Department: Nephrology / Genera"
+  },
+  {
+    "record_id": "REC-009",
+    "patient_id": "PAT-105",
+    "department": "Neurology",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Neurology\\Doctor Note\\REC-009_PAT-105.txt",
+    "relative_path": "data\\organized_records\\Neurology\\Doctor Note\\REC-009_PAT-105.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - NEUROLOGY CLINICAL NOTE Record ID: REC-009 | Date: 2026-10-25 14:15:00 Patient: PAT-105 (Bed 5 - Amina Yusuf) Department: Neurology / Ne"
+  },
+  {
+    "record_id": "REC-010",
+    "patient_id": "PAT-105",
+    "department": "Neurology",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\Neurology\\Prescription\\REC-010_PAT-105.txt",
+    "relative_path": "data\\organized_records\\Neurology\\Prescription\\REC-010_PAT-105.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - NEUROLOGY MEDICATION ORDER Record ID: REC-010 | Date: 2026-10-25 14:50:00 Patient ID: PAT-105 | Bed 5 | Dept: Neurology Physician: Dr. S"
+  },
+  {
+    "record_id": "REC-011",
+    "patient_id": "PAT-101",
+    "department": "General Surgery",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\General Surgery\\Doctor Note\\REC-011_PAT-101.txt",
+    "relative_path": "data\\organized_records\\General Surgery\\Doctor Note\\REC-011_PAT-101.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - POST-OPERATIVE SURGICAL NOTE Record ID: REC-011 | Date: 2026-10-25 15:30:00 Patient: PAT-101 (Bed 1 - Sarah Connor) Department: General "
+  },
+  {
+    "record_id": "REC-012",
+    "patient_id": "PAT-101",
+    "department": "General Surgery",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\General Surgery\\Prescription\\REC-012_PAT-101.txt",
+    "relative_path": "data\\organized_records\\General Surgery\\Prescription\\REC-012_PAT-101.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - POST-OP ANALGESIA PRESCRIPTION Record ID: REC-012 | Date: 2026-10-25 16:00:00 Patient: PAT-101 (Bed 1) | Department: General Surgery Pre"
+  },
+  {
+    "record_id": "REC-013",
+    "patient_id": "PAT-102",
+    "department": "Pulmonology",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Pulmonology\\Lab Report\\REC-013_PAT-102.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Lab Report\\REC-013_PAT-102.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - PULMONARY FUNCTION & SPUTUM LAB REPORT Record ID: REC-013 | Date: 2026-10-25 16:45:00 Patient Ref: PAT-102 (Bed 2 - Robert Miller) Depar"
+  },
+  {
+    "record_id": "REC-014",
+    "patient_id": "PAT-102",
+    "department": "Pulmonology",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Pulmonology\\Doctor Note\\REC-014_PAT-102.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Doctor Note\\REC-014_PAT-102.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - PULMONOLOGY DOCTOR NOTE Record ID: REC-014 | Date: 2026-10-25 17:15:00 Patient: PAT-102 | Bed 2 | Dept: Pulmonology Attending: Dr. Elena"
+  },
+  {
+    "record_id": "REC-015",
+    "patient_id": "PAT-108",
+    "department": "Trauma ICU",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Trauma ICU\\Doctor Note\\REC-015_PAT-108.txt",
+    "relative_path": "data\\organized_records\\Trauma ICU\\Doctor Note\\REC-015_PAT-108.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - TRAUMA ICU PROGRESS NOTE Record ID: REC-015 | Date: 2026-10-25 18:00:00 Patient: PAT-108 (Bed 8 - Thomas Wright) Department: Trauma / Ge"
+  },
+  {
+    "record_id": "REC-016",
+    "patient_id": "PAT-104",
+    "department": "Cardiology",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Cardiology\\Lab Report\\REC-016_PAT-104.txt",
+    "relative_path": "data\\organized_records\\Cardiology\\Lab Report\\REC-016_PAT-104.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - CARDIOLOGY ECHOCARDIOGRAM REPORT Record ID: REC-016 | Date: 2026-10-25 18:40:00 Patient: PAT-104 (Bed 4) | Department: Cardiology Direct"
+  },
+  {
+    "record_id": "REC-017",
+    "patient_id": "PAT-106",
+    "department": "Nephrology",
+    "record_type": "Doctor Note",
+    "file_path": "data/organized_records\\Nephrology\\Doctor Note\\REC-017_PAT-106.txt",
+    "relative_path": "data\\organized_records\\Nephrology\\Doctor Note\\REC-017_PAT-106.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - NEPHROLOGY CONSULTATION NOTE Record ID: REC-017 | Date: 2026-10-25 19:15:00 Patient: PAT-106 (James Henderson - Bed 6) Department: Nephr"
+  },
+  {
+    "record_id": "REC-018",
+    "patient_id": "PAT-103",
+    "department": "Infectious Disease",
+    "record_type": "Lab Report",
+    "file_path": "data/organized_records\\Infectious Disease\\Lab Report\\REC-018_PAT-103.txt",
+    "relative_path": "data\\organized_records\\Infectious Disease\\Lab Report\\REC-018_PAT-103.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - INFECTIOUS DISEASE LAB REPORT Record ID: REC-018 | Date: 2026-10-25 19:50:00 Patient ID: PAT-103 (Bed 3) Department: Infectious Disease "
+  },
+  {
+    "record_id": "REC-019",
+    "patient_id": "PAT-102",
+    "department": "Pulmonology",
+    "record_type": "Prescription",
+    "file_path": "data/organized_records\\Pulmonology\\Prescription\\REC-019_PAT-102.txt",
+    "relative_path": "data\\organized_records\\Pulmonology\\Prescription\\REC-019_PAT-102.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - PULMONOLOGY RESPIRATORY PRESCRIPTION Record ID: REC-019 | Date: 2026-10-25 20:25:00 Patient: PAT-102 (Robert Miller - Bed 2) Department:"
+  },
+  {
+    "record_id": "REC-020",
+    "patient_id": "PAT-101",
+    "department": "General Surgery",
+    "record_type": "Discharge Summary",
+    "file_path": "data/organized_records\\General Surgery\\Discharge Summary\\REC-020_PAT-101.txt",
+    "relative_path": "data\\organized_records\\General Surgery\\Discharge Summary\\REC-020_PAT-101.txt",
+    "content_preview": "METROPOLITAN HOSPITAL - FORMAL DISCHARGE SUMMARY Record ID: REC-020 | Date: 2026-10-25 21:00:00 Patient: PAT-101 (Sarah Connor - Bed 1) Department: General Surg"
+  }
+]

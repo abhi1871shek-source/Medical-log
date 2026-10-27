@@ -1,0 +1,10 @@
+METROPOLITAN HOSPITAL - INPATIENT PRESCRIPTION
+Record ID: REC-007 | Date: 2026-10-25 12:45:00
+Patient: PAT-107 (Bed 7) | Pulmonology Unit
+Ordering Clinician: Dr. Marcus Reynolds, MD
+
+Rx ORDERS:
+1. Propofol 10 mg/mL injectable emulsion, infuse at 20-50 mcg/kg/min for sedation
+2. Fentanyl citrate 50 mcg/hr IV infusion for pain/ventilator synchrony
+3. Methylprednisolone 40 mg IV every 12 hours
+4. Albuterol sulfate 2.5 mg nebulized solution q4h PRN wheezing

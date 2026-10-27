@@ -1,0 +1,24 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-003
+PATIENT_ID:  PAT-104
+DEPARTMENT:  Cardiology
+RECORD_TYPE: Doctor Note
+STORED_PATH: data/organized_records\Cardiology\Doctor Note\REC-003_PAT-104.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - CARDIOLOGY CLINICAL PROGRESS NOTE
+Record ID: REC-003 | Date: 2026-10-25 10:00:00
+Patient: PAT-104 (David Kim) | Bed: 4 | Dept: Cardiology
+Cardiologist: Dr. Laura Vance, MD, FACC
+
+SUBJECTIVE / OBJECTIVE:
+Patient status post acute non-ST elevation myocardial infarction (NSTEMI).
+Complaining of retrosternal heaviness and diaphoresis.
+ECG: Demonstrates dynamic ST-segment depressions in V4-V6 and inverted T waves.
+Troponin-I elevated at 4.6 ng/mL (Normal < 0.04 ng/mL).
+BP fluctuating around 90/60 mmHg; Heart Rate irregular at 112 bpm.
+
+ASSESSMENT & PLAN:
+1. Acute Coronary Syndrome with ongoing myocardial ischemia.
+2. Transfer for emergent cardiac catheterization and coronary angiography.
+3. Continue dual antiplatelet therapy and heparin infusion.

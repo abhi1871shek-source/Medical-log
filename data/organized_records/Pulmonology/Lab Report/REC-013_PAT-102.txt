@@ -1,0 +1,21 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-013
+PATIENT_ID:  PAT-102
+DEPARTMENT:  Pulmonology
+RECORD_TYPE: Lab Report
+STORED_PATH: data/organized_records\Pulmonology\Lab Report\REC-013_PAT-102.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - PULMONARY FUNCTION & SPUTUM LAB REPORT
+Record ID: REC-013 | Date: 2026-10-25 16:45:00
+Patient Ref: PAT-102 (Bed 2 - Robert Miller)
+Department: Pulmonology
+Lab Supervisor: H. Davis, MT(ASCP)
+
+SPUTUM CULTURE & CYTOLOGY:
+- Specimen: Purulent sputum
+- Gram Stain: Many polymorphonuclear leukocytes, moderate Gram-positive diplococci
+- Culture: Streptococcus pneumoniae sensitive to Ceftriaxone & Levofloxacin
+- Nasal Swab: SARS-CoV-2 and Influenza A/B negative by PCR
+
+Impression: Acute bacterial exacerbation of chronic bronchitis / COPD.

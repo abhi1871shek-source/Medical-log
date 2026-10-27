@@ -1,0 +1,20 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-004
+PATIENT_ID:  PAT-104
+DEPARTMENT:  Cardiology
+RECORD_TYPE: Prescription
+STORED_PATH: data/organized_records\Cardiology\Prescription\REC-004_PAT-104.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - CARDIAC DRUG PRESCRIPTION
+Record ID: REC-004 | Date: 2026-10-25 10:45:00
+Patient ID: PAT-104 | Bed 4 | Cardiology Division
+Prescriber: Dr. Laura Vance, MD
+
+MEDICATION ORDER (Rx):
+1. Aspirin 81 mg chewable tablet once daily
+2. Ticagrelor 90 mg PO BID
+3. Heparin sodium IV bolus 5000 units followed by 1000 units/hr continuous infusion
+4. Atorvastatin 80 mg oral at bedtime
+
+Allergies: No known drug allergies (NKDA).

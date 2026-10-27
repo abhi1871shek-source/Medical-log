@@ -1,0 +1,19 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-002
+PATIENT_ID:  PAT-103
+DEPARTMENT:  Nephrology
+RECORD_TYPE: Prescription
+STORED_PATH: data/organized_records\Nephrology\Prescription\REC-002_PAT-103.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - ICU PHARMACY PRESCRIPTION
+Record ID: REC-002 | Date: 2026-10-25 09:15:00
+Patient: PAT-103 (Elena Vasquez) | Bed: 3
+Attending Physician: Dr. K. Mehta, MD (Infectious Disease)
+
+PRESCRIPTION ORDER (Rx):
+1. Meropenem IV 1g every 8 hours via IV infusion over 30 mins
+2. Norepinephrine bitartrate 4mg/250mL D5W, titrate MAP >= 65 mmHg
+3. Normal Saline 0.9% 1000 mL bolus IV stat
+
+Pharmacist Note: Monitor renal function and arterial pressure continuously.

@@ -1,0 +1,17 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-010
+PATIENT_ID:  PAT-105
+DEPARTMENT:  Neurology
+RECORD_TYPE: Prescription
+STORED_PATH: data/organized_records\Neurology\Prescription\REC-010_PAT-105.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - NEUROLOGY MEDICATION ORDER
+Record ID: REC-010 | Date: 2026-10-25 14:50:00
+Patient ID: PAT-105 | Bed 5 | Dept: Neurology
+Physician: Dr. S. Patel, MD
+
+PRESCRIPTION (Rx):
+1. Nicardipine IV infusion 5 mg/hr, titrate by 2.5 mg/hr q15m to target SBP 120-140 mmHg
+2. Levetiracetam (Keppra) 500 mg IV BID for seizure prophylaxis
+3. Subcutaneous Heparin 5000 units q12h for DVT prevention (start at hour 24 post-TPA)

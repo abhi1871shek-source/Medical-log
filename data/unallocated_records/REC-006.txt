@@ -1,0 +1,14 @@
+METROPOLITAN HOSPITAL - PULMONOLOGY CONSULTATION NOTE
+Record ID: REC-006 | Date: 2026-10-25 12:10:00
+Patient: PAT-107 | Bed: 7 | Department: Pulmonology
+Consulting Pulmonologist: Dr. Marcus Reynolds, MD
+
+CLINICAL IMPRESSION:
+71yo female with rapidly deteriorating pulmonary gas exchange.
+Bilateral diffuse infiltrates on portable chest radiograph consistent with ARDS.
+Severe tachypnea with respiratory rate > 30 bpm and intercostal retractions.
+
+RECOMMENDATIONS:
+- Immediate mechanical ventilation with lung-protective tidal volumes (6 mL/kg).
+- Set PEEP to 12 cm H2O; adjust FiO2 to maintain SpO2 >= 90%.
+- Prone positioning protocol if P/F ratio remains < 150.

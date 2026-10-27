@@ -1,0 +1,18 @@
+--- ALLOCATION METADATA ---
+RECORD_ID:   REC-012
+PATIENT_ID:  PAT-101
+DEPARTMENT:  General Surgery
+RECORD_TYPE: Prescription
+STORED_PATH: data/organized_records\General Surgery\Prescription\REC-012_PAT-101.txt
+---------------------------
+
+METROPOLITAN HOSPITAL - POST-OP ANALGESIA PRESCRIPTION
+Record ID: REC-012 | Date: 2026-10-25 16:00:00
+Patient: PAT-101 (Bed 1) | Department: General Surgery
+Prescriber: Dr. Anthony Ross, FACS
+
+MEDICATION PRESCRIPTION (Rx):
+1. Acetaminophen 650 mg IV q6h scheduled for 24 hours
+2. Ondansetron 4 mg IV q8h PRN post-op nausea
+3. Tramadol 50 mg oral q6h PRN breakthrough surgical pain
+4. Cefazolin 1g IV q8h x 2 additional doses for surgical prophylaxis
